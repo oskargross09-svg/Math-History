@@ -1,0 +1,186 @@
+{
+ "slug": "archimedes-krone",
+ "date": "2026-11-22",
+ "thema": "Archimedes und die goldene Krone (Heureka)",
+ "beats": [
+  {
+   "id": "hook",
+   "de": "Warum rannte Archimedes nackt durch Syrakus?",
+   "en": "Why did Archimedes run naked through Syracuse?"
+  },
+  {
+   "id": "koenig",
+   "de": "König Hieron der Zweite gab einem Goldschmied reines Gold für eine Krone.",
+   "en": "King Hiero the Second gave a goldsmith pure gold for a crown."
+  },
+  {
+   "id": "waage",
+   "de": "Die Krone wog genau richtig. Doch es hiess: Er hat Gold gegen Silber getauscht.",
+   "en": "The crown weighed exactly right. But rumor had it: some gold was swapped for silver."
+  },
+  {
+   "id": "auftrag",
+   "de": "Archimedes sollte es beweisen – ohne die Krone zu beschädigen.",
+   "en": "Archimedes had to prove it – without damaging the crown."
+  },
+  {
+   "id": "bad",
+   "de": "Der Sage nach kam die Lösung in der Badewanne: Je tiefer er sank, desto mehr Wasser lief über.",
+   "en": "Legend says the answer came in the bath: the deeper he sank, the more water spilled over."
+  },
+  {
+   "id": "heureka",
+   "de": "Heureka! Ich hab's gefunden! Und los ging's. Nackt.",
+   "en": "Eureka! I found it! And off he ran. Naked."
+  },
+  {
+   "id": "dichte",
+   "de": "Silber hat eine kleinere Dichte als Gold. Gleiches Gewicht, aber mehr Volumen.",
+   "en": "Silver is less dense than gold. Same weight, but more volume."
+  },
+  {
+   "id": "versuch",
+   "de": "Eine Krone mit Silber verdrängt also mehr Wasser als gleich schweres reines Gold.",
+   "en": "So a crown with silver pushes out more water than pure gold of the same weight."
+  },
+  {
+   "id": "erwischt",
+   "de": "Und genau so war's! Der Goldschmied flog auf.",
+   "en": "And it did! The goldsmith was caught."
+  },
+  {
+   "id": "funfact",
+   "de": "Übrigens: Galilei zweifelte am Wassertrick. Er glaubte, Archimedes nutzte eine Waage.",
+   "en": "Fun fact: Galileo doubted the water trick. He thought Archimedes used a balance."
+  }
+ ],
+ "say": {
+  "de": {
+   "hiess": "hieß"
+  },
+  "en": {}
+ },
+ "text": {
+  "de": {
+   "hook": "Warum rannte Archimedes nackt durch Syrakus?",
+   "ort": "Syrakus, 3. Jh. v. Chr.",
+   "hiero": "Hieron II.",
+   "schmied": "Goldschmied",
+   "echt": "Echtes Gold?",
+   "gewicht": "Gewicht",
+   "silber": "Silber?",
+   "auftrag": "Der Auftrag:",
+   "ohne": "Krone nicht beschädigen!",
+   "sage": "Der Sage nach …",
+   "heureka": "Heureka!",
+   "gefunden": "„Ich hab’s gefunden!“",
+   "nackt": "(nackt!)",
+   "formel": "Dichte = Masse : Volumen",
+   "gold": "Gold",
+   "silberW": "Silber",
+   "g1": "19,3 g/cm³",
+   "g2": "10,5 g/cm³",
+   "kg": "1 kg",
+   "mehrV": "mehr Volumen",
+   "test": "Der Test",
+   "krone": "Krone",
+   "mehrW": "mehr Wasser!",
+   "erwischt": "Erwischt!",
+   "fun": "Fun Fact",
+   "galilei": "Galileis Idee: eine Waage im Wasser",
+   "quelle": "Quellen: Vitruv, De architectura IX · Galilei, La Bilancetta (1586)",
+   "kw": {
+    "gold": "Goldschmied",
+    "krone": "Krone.",
+    "doch": "Doch",
+    "ohne": "ohne",
+    "tiefer": "tiefer",
+    "mehrw": "mehr Wasser",
+    "nackt": "Nackt",
+    "los": "Und los",
+    "gleich": "Gleiches",
+    "vol": "mehr Volumen",
+    "mehr": "mehr Wasser",
+    "flog": "flog"
+   }
+  },
+  "en": {
+   "hook": "Why did Archimedes run naked through Syracuse?",
+   "ort": "Syracuse, 3rd century BC",
+   "hiero": "Hiero II",
+   "schmied": "Goldsmith",
+   "echt": "Real gold?",
+   "gewicht": "weight",
+   "silber": "silver?",
+   "auftrag": "The task:",
+   "ohne": "Don’t damage the crown!",
+   "sage": "Legend says …",
+   "heureka": "Eureka!",
+   "gefunden": "“I have found it!”",
+   "nackt": "(naked!)",
+   "formel": "density = mass ÷ volume",
+   "gold": "gold",
+   "silberW": "silver",
+   "g1": "19.3 g/cm³",
+   "g2": "10.5 g/cm³",
+   "kg": "1 kg",
+   "mehrV": "more volume",
+   "test": "The test",
+   "krone": "crown",
+   "mehrW": "more water!",
+   "erwischt": "Caught!",
+   "fun": "Fun fact",
+   "galilei": "Galileo’s idea: a balance in water",
+   "quelle": "Sources: Vitruvius, De architectura IX · Galileo, La Bilancetta (1586)",
+   "kw": {
+    "gold": "goldsmith",
+    "krone": "crown.",
+    "doch": "But",
+    "ohne": "without",
+    "tiefer": "deeper",
+    "mehrw": "more water",
+    "nackt": "Naked",
+    "los": "And off",
+    "gleich": "Same",
+    "vol": "more volume",
+    "mehr": "more water",
+    "flog": "caught"
+   }
+  }
+ },
+ "meta": {
+  "de": {
+   "title": "Heureka! Archimedes und die falsche Krone",
+   "description": "König Hieron II. ahnte Betrug: Hatte sein Goldschmied Silber in die Krone gemischt? Der Sage nach fand Archimedes die Lösung in der Badewanne – mit der Dichte. Und Galilei hatte später eine noch bessere Idee.",
+   "tags": [
+    "Archimedes",
+    "Heureka",
+    "Dichte",
+    "Mathematik",
+    "Geschichte der Mathematik",
+    "Physik",
+    "Antike",
+    "Syrakus"
+   ]
+  },
+  "en": {
+   "title": "Eureka! Archimedes and the fake crown",
+   "description": "King Hiero II suspected fraud: had his goldsmith mixed silver into the golden crown? Legend says Archimedes found the answer in his bath – using density. Centuries later, Galileo had an even better idea.",
+   "tags": [
+    "Archimedes",
+    "Eureka",
+    "density",
+    "math history",
+    "history of math",
+    "physics",
+    "ancient Greece",
+    "Syracuse"
+   ]
+  }
+ },
+ "quellen": [
+  "Vitruv, De architectura IX, Einleitung 9–12",
+  "Galilei, La Bilancetta (1586)",
+  "Chris Rorres, Archimedes – The Golden Crown (NYU)"
+ ]
+}
