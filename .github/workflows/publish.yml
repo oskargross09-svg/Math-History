@@ -38,13 +38,15 @@ jobs:
       - name: Hochladen
         if: steps.jobs.outputs.list != ''
         env:
-          CLIENT_ID: ${{ secrets.CLIENT_ID }}
-          CLIENT_SECRET: ${{ secrets.CLIENT_SECRET }}
-          YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
+          # Namen wie im Repo angelegt (Secret oder Variable); ältere Namen als Ausweich
+          CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID || vars.YOUTUBE_CLIENT_ID || secrets.CLIENT_ID }}
+          CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET || secrets.YOUTUBE_CLUENT_SECRET || vars.YOUTUBE_CLIENT_SECRET || vars.YOUTUBE_CLUENT_SECRET || secrets.CLIENT_SECRET }}
+          YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN || vars.YOUTUBE_REFRESH_TOKEN }}
         run: |
+          : > /tmp/log.txt
+          for v in CLIENT_ID CLIENT_SECRET YOUTUBE_REFRESH_TOKEN; do [ -n "${!v}" ] && echo "$v: gesetzt" >> /tmp/log.txt || echo "$v: FEHLT" >> /tmp/log.txt; done
           pip install -q google-api-python-client google-auth
           git fetch -q --depth 1 origin media
-          : > /tmp/log.txt
           for J in ${{ steps.jobs.outputs.list }}; do
             python3 - "$J" > /tmp/args.sh <<'PY'
           import json, shlex, sys

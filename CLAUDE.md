@@ -101,6 +101,6 @@ Nie etwas anderes veröffentlichen, nie Videos löschen, nie Workflows oder Secr
 - `pipeline/make_video.py` – Folge → MP4 (Stimme sherpa-onnx: DE Piper „Thorsten“, EN Kokoro „am_michael“; Rendering mit Chrome; Mix)
 - `pipeline/template/` – `lib.js` (Figuren, Requisiten, Kreide, Untertitel, Abspann), `page.html` · `pipeline/fonts/` Kalam + Patrick Hand (OFL) · `pipeline/assets/` Wortmarken
 - `pipeline/sfx.py` – Soundeffekte per Code · `pipeline/publish.py` – Übergabe an GitHub · `upload_youtube.py` – YouTube Data API
-  (Secrets `CLIENT_ID`, `CLIENT_SECRET`, `YOUTUBE_REFRESH_TOKEN` – Token pro Kanal, siehe `tools/get_refresh_token.py`)
+  (Secrets `YOUTUBE_CLIENT_ID`, `YOUTUBE_CLIENT_SECRET`, `YOUTUBE_REFRESH_TOKEN` – Token pro Kanal, siehe `tools/get_refresh_token.py`)
 - `episodes/` – eine Folge pro Tag · `videos/` – Upload-Aufträge (lösen `publish.yml` aus) · `themen.md` – Themenliste (im DE-Repo massgebend)
 - Branch `media` – MP4-Dateien (wöchentlich aufgeräumt) · Branch `bot-logs` – Ergebnisse des Upload-Workflows
