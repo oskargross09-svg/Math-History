@@ -1,5 +1,8 @@
+CLIENT_ID: gesetzt
+CLIENT_SECRET: gesetzt
+YOUTUBE_REFRESH_TOKEN: FEHLT
 job: videos/2026-11-22_archimedes-krone.json
-run: 20261122T183349
+run: 20261122T185000
 Traceback (most recent call last):
   File "/home/runner/work/Math-History/Math-History/upload_youtube.py", line 83, in <module>
     main()
