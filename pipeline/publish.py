@@ -28,7 +28,7 @@ def sh(cmd, cwd=ROOT, check=True):
 
 
 def push_media(mp4, name):
-    wt = "/tmp/mk-media"
+    wt = f"/tmp/mk-media-{os.path.basename(ROOT)}"
     sh(f"rm -rf {wt}"); sh("git worktree prune")
     if sh("git ls-remote --heads origin media"):
         sh("git fetch -q --depth 1 origin media")
