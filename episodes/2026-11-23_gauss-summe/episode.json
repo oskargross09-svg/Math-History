@@ -1,0 +1,172 @@
+{
+ "slug": "gauss-summe",
+ "date": "2026-11-23",
+ "thema": "Der kleine Gauss addiert 1 bis 100 in der Schule",
+ "beats": [
+  {
+   "id": "hook",
+   "de": "Wie zählt man in Sekunden alle Zahlen von eins bis hundert zusammen?",
+   "en": "How do you add up every number from one to a hundred in seconds?"
+  },
+  {
+   "id": "schule",
+   "de": "Braunschweig, um 1786. Lehrer Büttner stellt seiner Rechenklasse eine lange Additionsaufgabe.",
+   "en": "Brunswick, around 1786. Teacher Büttner gives his arithmetic class a long addition problem."
+  },
+  {
+   "id": "gauss",
+   "de": "Doch der neunjährige Carl Friedrich Gauss wirft seine Schiefertafel sofort auf den Tisch: «Ligget se!» – Da liegt sie!",
+   "en": "But nine-year-old Carl Friedrich Gauss tosses his slate onto the table right away: Ligget se! There it lies!"
+  },
+  {
+   "id": "warten",
+   "de": "Büttner geht mit dem Stock auf und ab. Die anderen rechnen und rechnen.",
+   "en": "Büttner paces up and down with his cane. The others keep adding and adding."
+  },
+  {
+   "id": "richtig",
+   "de": "Am Ende steht auf seiner Tafel nur eine einzige Zahl – und sie ist richtig.",
+   "en": "In the end, his slate shows just one single number – and it's right."
+  },
+  {
+   "id": "trick",
+   "de": "Meist heisst es: eins bis hundert. Der Trick: Eins plus hundert gibt hunderteins.",
+   "en": "Usually it's told as one to a hundred. The trick: one plus a hundred makes a hundred and one."
+  },
+  {
+   "id": "paare",
+   "de": "Zwei plus neunundneunzig auch. Drei plus achtundneunzig auch. Fünfzig solche Paare!",
+   "en": "Two plus ninety-nine, too. Three plus ninety-eight, too. Fifty such pairs!"
+  },
+  {
+   "id": "ergebnis",
+   "de": "Fünfzig mal hunderteins macht fünftausendfünfzig!",
+   "en": "Fifty times a hundred and one is five thousand and fifty!"
+  },
+  {
+   "id": "funfact",
+   "de": "Übrigens: Die älteste Quelle von 1856 nennt gar keine Zahlen. Eins bis hundert kam erst später dazu.",
+   "en": "Fun fact: the oldest source, from 1856, names no numbers at all. One to a hundred was added later."
+  }
+ ],
+ "say": {
+  "de": {
+   "1786": "siebzehnhundertsechsundachtzig",
+   "1856": "achtzehnhundertsechsundfünfzig",
+   "Gauss": "Gauß",
+   "heisst": "heißt",
+   "«": "",
+   "»": ""
+  },
+  "en": {
+   "1786": "seventeen eighty-six",
+   "1856": "eighteen fifty-six",
+   "Büttner": "Bittner",
+   "Ligget se": "Liggett zeh"
+  }
+ },
+ "text": {
+  "de": {
+   "hook": "Wie zählt man in Sekunden alle Zahlen von 1 bis 100 zusammen?",
+   "ort": "Braunschweig, um 1786",
+   "lehrer": "Lehrer Büttner",
+   "gauss": "Carl Friedrich Gauss, 9",
+   "ligget": "„Ligget se!“",
+   "daliegt": "(Da liegt sie!)",
+   "warten": "Die anderen rechnen …",
+   "eine": "nur eine Zahl",
+   "richtig": "richtig!",
+   "meist": "Meist erzählt: 1 bis 100",
+   "paare": "50 Paare",
+   "fun": "Übrigens",
+   "alt": "Älteste Quelle (1856):",
+   "keine": "keine Zahlen genannt",
+   "spaeter": "„1 bis 100“ kam später dazu",
+   "quelle": "Quellen: Sartorius, Gauss zum Gedächtniss (1856) · B. Hayes (2006)",
+   "kw": {
+    "aufgabe": "Additionsaufgabe",
+    "tafel": "Schiefertafel",
+    "ligget": "Ligget",
+    "anderen": "anderen",
+    "richtig": "und sie",
+    "trick": "Eins plus",
+    "zwei": "Zwei",
+    "drei": "Drei",
+    "fuenfzig": "Fünfzig",
+    "mal": "mal",
+    "summe": "fünftausendfünfzig",
+    "keine": "keine",
+    "spaeter": "Eins bis hundert"
+   }
+  },
+  "en": {
+   "hook": "How do you add up every number from 1 to 100 in seconds?",
+   "ort": "Brunswick, c. 1786",
+   "lehrer": "Teacher Büttner",
+   "gauss": "Carl Friedrich Gauss, 9",
+   "ligget": "“Ligget se!”",
+   "daliegt": "(There it lies!)",
+   "warten": "The others keep adding …",
+   "eine": "just one number",
+   "richtig": "right!",
+   "meist": "Usually told: 1 to 100",
+   "paare": "50 pairs",
+   "fun": "Fun fact",
+   "alt": "Oldest source (1856):",
+   "keine": "no numbers named",
+   "spaeter": "“1 to 100” was added later",
+   "quelle": "Sources: Sartorius, Gauss zum Gedächtniss (1856) · B. Hayes (2006)",
+   "kw": {
+    "aufgabe": "addition",
+    "tafel": "slate",
+    "ligget": "Ligget",
+    "anderen": "others",
+    "richtig": "and it",
+    "trick": "one plus",
+    "zwei": "Two",
+    "drei": "Three",
+    "fuenfzig": "Fifty",
+    "mal": "times",
+    "summe": "five thousand",
+    "keine": "no numbers",
+    "spaeter": "One to a hundred"
+   }
+  }
+ },
+ "meta": {
+  "de": {
+   "title": "1 + 2 + … + 100 in Sekunden? Der Trick des kleinen Gauss",
+   "description": "Braunschweig, um 1786: Der neunjährige Carl Friedrich Gauss löst eine lange Additionsaufgabe, während die ganze Klasse noch rechnet. Wie der berühmte Paar-Trick funktioniert – und warum die älteste Quelle gar nicht von 1 bis 100 spricht.",
+   "tags": [
+    "Gauss",
+    "Carl Friedrich Gauss",
+    "Gausssche Summenformel",
+    "Kopfrechnen",
+    "Mathematik",
+    "Geschichte der Mathematik",
+    "Mathe Trick",
+    "Braunschweig"
+   ]
+  },
+  "en": {
+   "title": "1 + 2 + … + 100 in seconds? Young Gauss's famous trick",
+   "description": "Brunswick, around 1786: nine-year-old Carl Friedrich Gauss solves a long addition problem while the rest of the class is still adding. Here's how the famous pairing trick works – and why the oldest source never mentions 1 to 100.",
+   "tags": [
+    "Gauss",
+    "Carl Friedrich Gauss",
+    "sum of 1 to 100",
+    "mental math",
+    "math history",
+    "history of math",
+    "math trick",
+    "arithmetic series"
+   ]
+  }
+ },
+ "quellen": [
+  "W. Sartorius von Waltershausen, Gauss zum Gedächtniss (1856)",
+  "F. A. T. Winnecke, Gauss – ein Umriss seines Lebens und Wirkens (1877)",
+  "Brian Hayes, Gauss's Day of Reckoning, American Scientist 94 (2006)",
+  "MacTutor History of Mathematics, Johann Carl Friedrich Gauss (St Andrews)"
+ ]
+}
