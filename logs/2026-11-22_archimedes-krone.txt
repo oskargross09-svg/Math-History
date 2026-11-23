@@ -1,22 +1,9 @@
 CLIENT_ID: gesetzt
 CLIENT_SECRET: gesetzt
-YOUTUBE_REFRESH_TOKEN: FEHLT
+YOUTUBE_REFRESH_TOKEN: gesetzt
 job: videos/2026-11-22_archimedes-krone.json
 run: 20261122T185000
-Traceback (most recent call last):
-  File "/home/runner/work/Math-History/Math-History/upload_youtube.py", line 83, in <module>
-    main()
-  File "/home/runner/work/Math-History/Math-History/upload_youtube.py", line 45, in main
-    creds.refresh(Request())  # schlägt mit invalid_grant fehl, wenn der Token abgelaufen ist
-    ^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/google/auth/credentials.py", line 527, in refresh
-    self._perform_refresh_token(request)
-  File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/google/oauth2/credentials.py", line 437, in _perform_refresh_token
-    ) = reauth.refresh_grant(
-        ^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/google/oauth2/reauth.py", line 367, in refresh_grant
-    _client._handle_error_response(response_data, retryable_error)
-  File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/google/oauth2/_client.py", line 75, in _handle_error_response
-    raise exceptions.RefreshError(
-google.auth.exceptions.RefreshError: ('invalid_request: Missing required parameter: refresh_token', {'error': 'invalid_request', 'error_description': 'Missing required parameter: refresh_token'})
-rc=1
+Fertig: https://youtu.be/DkPZScQLPFU
+Status: public
+VIDEO_ID=DkPZScQLPFU
+rc=0
