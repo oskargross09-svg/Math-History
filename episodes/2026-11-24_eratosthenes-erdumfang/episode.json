@@ -1,0 +1,198 @@
+{
+ "slug": "eratosthenes-erdumfang",
+ "date": "2026-11-24",
+ "thema": "Eratosthenes misst den Erdumfang mit einem Schatten",
+ "beats": [
+  {
+   "id": "hook",
+   "de": "Wie vermisst man die ganze Erde – mit einem Stock und einem Schatten?",
+   "en": "How do you measure the whole Earth – with a stick and a shadow?"
+  },
+  {
+   "id": "ort",
+   "de": "Alexandria, um 240 vor Christus. Eratosthenes leitet die berühmte Bibliothek.",
+   "en": "Alexandria, around 240 BC. Eratosthenes runs the famous library."
+  },
+  {
+   "id": "syene",
+   "de": "Weit im Süden, in Syene, wirft ein Stab am längsten Tag mittags keinen Schatten.",
+   "en": "Far to the south, in Syene, a stick casts no shadow at noon on the longest day."
+  },
+  {
+   "id": "alex",
+   "de": "In Alexandria aber schon! Die Sonne steht dort ein Fünfzigstel eines Kreises schräg.",
+   "en": "But in Alexandria it does! There, the sunlight comes in at an angle: one fiftieth of a circle."
+  },
+  {
+   "id": "trick",
+   "de": "Die Sonnenstrahlen kommen parallel an. Also liegen die Städte ein Fünfzigstel des Erdumfangs auseinander.",
+   "en": "The rays arrive in parallel. So the two cities are one fiftieth of Earth's circumference apart."
+  },
+  {
+   "id": "distanz",
+   "de": "Und dieser Weg misst etwa fünftausend Stadien.",
+   "en": "And that distance is about five thousand stadia."
+  },
+  {
+   "id": "rechnung",
+   "de": "Fünfzig mal fünftausend: zweihundertfünfzigtausend Stadien, einmal rund um die Erde!",
+   "en": "Fifty times five thousand: two hundred fifty thousand stadia, all the way around the Earth!"
+  },
+  {
+   "id": "genau",
+   "de": "Wie lang ein Stadion war, ist umstritten. Doch er lag erstaunlich nah an den echten vierzigtausend Kilometern.",
+   "en": "Nobody knows exactly how long a stadion was. But he came amazingly close to the real forty thousand kilometers."
+  },
+  {
+   "id": "funfact",
+   "de": "Übrigens: Man nannte ihn «Beta» – in jedem Fach nur fast der Beste. Für die Erde reichte es trotzdem.",
+   "en": "Fun fact: they called him Beta – almost the best in every field. For the Earth, that was enough."
+  }
+ ],
+ "say": {
+  "de": {
+   "«": "",
+   "»": "",
+   "240": "zweihundertvierzig"
+  },
+  "en": {
+   "240 BC": "two forty BC"
+  }
+ },
+ "text": {
+  "de": {
+   "hook": "Wie vermisst man die ganze Erde – mit einem Stock und einem Schatten?",
+   "ort": "Alexandria, um 240 v. Chr.",
+   "name": "Eratosthenes",
+   "biblio": "Bibliothek",
+   "syene": "Syene (heute Assuan)",
+   "mittag": "längster Tag, mittags",
+   "kein": "kein Schatten!",
+   "alex": "Alexandria",
+   "schatten": "Schatten",
+   "winkel": "1/50 Kreis = 7,2°",
+   "parallel": "Strahlen parallel",
+   "erde": "Erde",
+   "stadt1": "Syene",
+   "stadt2": "Alexandria",
+   "fuenfzig": "1/50 Erdumfang",
+   "weg": "≈ 5000 Stadien",
+   "rechnung1": "50 × 5000",
+   "rechnung2": "= 250 000 Stadien",
+   "stadion": "1 Stadion = ? m",
+   "laenge": "(etwa 157 bis 185 m)",
+   "ergebnis": "≈ 39 000 – 46 000 km",
+   "echt": "heute: ≈ 40 000 km",
+   "fun": "Übrigens",
+   "beta": "„Beta“",
+   "fast": "in jedem Fach fast der Beste",
+   "quelle": "Quellen: Kleomedes, Meteora · MacTutor (St Andrews) · APS News",
+   "kw": {
+    "stock": "Stock",
+    "schatten": "Schatten",
+    "bibliothek": "Bibliothek",
+    "stab": "Stab",
+    "kein": "keinen",
+    "schon": "schon",
+    "fuenfzigstel": "Fünfzigstel",
+    "parallel": "parallel",
+    "erdumfang": "Fünfzigstel",
+    "stadien": "fünftausend",
+    "mal": "mal",
+    "summe": "zweihundertfünfzigtausend",
+    "rund": "rund um",
+    "umstritten": "umstritten",
+    "echt": "vierzigtausend",
+    "beta": "Beta",
+    "fast": "fast",
+    "erde": "Erde"
+   },
+   "skizze": "(Skizze, nicht massstäblich)"
+  },
+  "en": {
+   "hook": "How do you measure the whole Earth – with a stick and a shadow?",
+   "ort": "Alexandria, c. 240 BC",
+   "name": "Eratosthenes",
+   "biblio": "Library",
+   "syene": "Syene (today Aswan)",
+   "mittag": "longest day, noon",
+   "kein": "no shadow!",
+   "alex": "Alexandria",
+   "schatten": "shadow",
+   "winkel": "1/50 circle = 7.2°",
+   "parallel": "Parallel rays",
+   "erde": "Earth",
+   "stadt1": "Syene",
+   "stadt2": "Alexandria",
+   "fuenfzig": "1/50 of Earth",
+   "weg": "≈ 5,000 stadia",
+   "rechnung1": "50 × 5,000",
+   "rechnung2": "= 250,000 stadia",
+   "stadion": "1 stadion = ? m",
+   "laenge": "(about 157 to 185 m)",
+   "ergebnis": "≈ 39,000 – 46,000 km",
+   "echt": "today: ≈ 40,000 km",
+   "fun": "Fun fact",
+   "beta": "“Beta”",
+   "fast": "almost the best in every field",
+   "quelle": "Sources: Cleomedes, Meteora · MacTutor (St Andrews) · APS News",
+   "kw": {
+    "stock": "stick",
+    "schatten": "shadow",
+    "bibliothek": "library",
+    "stab": "stick",
+    "kein": "no shadow",
+    "schon": "does",
+    "fuenfzigstel": "fiftieth",
+    "parallel": "parallel",
+    "erdumfang": "fiftieth",
+    "stadien": "five thousand",
+    "mal": "times",
+    "summe": "two hundred",
+    "rund": "around",
+    "umstritten": "exactly",
+    "echt": "forty thousand",
+    "beta": "Beta",
+    "fast": "almost",
+    "erde": "Earth"
+   },
+   "skizze": "(sketch, not to scale)"
+  }
+ },
+ "meta": {
+  "de": {
+   "title": "Den Erdumfang mit einem Schatten messen? Eratosthenes konnte es",
+   "description": "Alexandria, um 240 v. Chr.: Eratosthenes vergleicht den Mittagsschatten in Syene und Alexandria – und berechnet daraus den Umfang der ganzen Erde. Wie der Trick mit dem Fünfzigstel funktioniert und wie nah er an den echten 40 000 Kilometern lag.",
+   "tags": [
+    "Eratosthenes",
+    "Erdumfang",
+    "Alexandria",
+    "Antike",
+    "Geometrie",
+    "Geschichte der Mathematik",
+    "Astronomie",
+    "Mathe"
+   ]
+  },
+  "en": {
+   "title": "Measuring the Earth with a shadow? Eratosthenes did it",
+   "description": "Alexandria, around 240 BC: Eratosthenes compares the noon shadows in Syene and Alexandria – and works out the size of the entire Earth. Here's how the one-fiftieth trick works and how close he came to the real 40,000 kilometers.",
+   "tags": [
+    "Eratosthenes",
+    "Earth's circumference",
+    "Alexandria",
+    "ancient Greece",
+    "geometry",
+    "math history",
+    "astronomy",
+    "history of math"
+   ]
+  }
+ },
+ "quellen": [
+  "Kleomedes, Meteora (Die Kreisbewegung der Himmelskörper) I.7",
+  "MacTutor History of Mathematics, Eratosthenes of Cyrene (St Andrews)",
+  "A. Chodos, June ca. 240 B.C.: Eratosthenes Measures the Earth, APS News (2006)",
+  "D. Thompson, Measuring the Earth, Astronomy 161, Ohio State University"
+ ]
+}
