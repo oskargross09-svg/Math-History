@@ -1,0 +1,10 @@
+CLIENT_ID: gesetzt
+CLIENT_SECRET: gesetzt
+YOUTUBE_REFRESH_TOKEN: gesetzt
+job: videos/2026-11-24_eratosthenes-erdumfang.json
+run: 20261124T005312
+Fertig: https://youtu.be/Uc8yUkT9H5Y
+Status: private
+VIDEO_ID=Uc8yUkT9H5Y
+Veröffentlichung geplant: 2026-11-24T21:00:00Z
+rc=0
