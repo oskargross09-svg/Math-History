@@ -1,0 +1,203 @@
+{
+ "slug": "hippasos-wurzel-zwei",
+ "date": "2026-11-25",
+ "thema": "Hippasos und die irrationale Wurzel aus 2 (Legende: über Bord geworfen)",
+ "beats": [
+  {
+   "id": "hook",
+   "de": "Starb ein Mann wegen einer einzigen Zahl?",
+   "en": "Did a man die because of a single number?"
+  },
+  {
+   "id": "ort",
+   "de": "Süditalien, im fünften Jahrhundert vor Christus. Die Schule des Pythagoras glaubt: Alles ist Zahl.",
+   "en": "Southern Italy, fifth century BC. The followers of Pythagoras believe: everything is number."
+  },
+  {
+   "id": "glaube",
+   "de": "Zwei Längen, so dachten sie, stehen immer im Verhältnis ganzer Zahlen. Drei zu zwei, fünf zu vier.",
+   "en": "Any two lengths, they thought, form a ratio of whole numbers. Three to two, five to four."
+  },
+  {
+   "id": "quadrat",
+   "de": "Doch dann: ein Quadrat mit Seite eins. Seine Diagonale ist die Wurzel aus zwei.",
+   "en": "But then: a square with side one. Its diagonal is the square root of two."
+  },
+  {
+   "id": "bruch",
+   "de": "Und diese Zahl ist kein Bruch – egal, wie lange du suchst!",
+   "en": "And that number is not a fraction – no matter how long you search!"
+  },
+  {
+   "id": "hippasos",
+   "de": "Wer das zuerst bewies, weiss niemand sicher. Meist nennt man Hippasos von Metapont.",
+   "en": "Nobody knows for sure who proved it first. The name usually mentioned is Hippasus of Metapontum."
+  },
+  {
+   "id": "legende",
+   "de": "Der Sage nach ertrank er im Meer – als Strafe der Götter, weil er das Geheimnis verriet.",
+   "en": "Legend says he drowned at sea – punished by the gods for spilling the secret."
+  },
+  {
+   "id": "bord",
+   "de": "Dass ihn die eigenen Leute über Bord warfen? Das steht erst in viel späteren Büchern.",
+   "en": "That his own people threw him overboard? That only shows up in much later books."
+  },
+  {
+   "id": "funfact",
+   "de": "Übrigens: Solche Zahlen heissen heute irrational. Und es gibt mehr davon als Brüche!",
+   "en": "Fun fact: today we call such numbers irrational. And there are actually more of them than fractions!"
+  }
+ ],
+ "say": {
+  "de": {
+   "weiss": "weiß",
+   "heissen": "heißen"
+  },
+  "en": {}
+ },
+ "text": {
+  "de": {
+   "hook": "Starb ein Mann wegen einer einzigen Zahl?",
+   "ort": "Süditalien, 5. Jh. v. Chr.",
+   "schule": "die Pythagoreer",
+   "motto": "„Alles ist Zahl“",
+   "glaube": "Alles nur Verhältnisse",
+   "ganz": "ganze Zahlen",
+   "quadrat": "Das Quadrat",
+   "diag": "Diagonale",
+   "pyth": "1² + 1² = 2",
+   "bruch": "√2 = a/b ?",
+   "v1": "7/5 = 1,4",
+   "v2": "17/12 = 1,41666…",
+   "v3": "99/70 = 1,414285…",
+   "ziel": "√2 = 1,414213…",
+   "kein": "kein Bruch!",
+   "wer": "Wer war’s?",
+   "name": "Hippasos von Metapont",
+   "unsicher": "(Zuschreibung unsicher)",
+   "sage": "Der Sage nach …",
+   "strafe": "Strafe der Götter?",
+   "geheimnis": "Geheimnis: √2",
+   "bordT": "Über Bord geworfen?",
+   "spaet": "erst in viel späteren Büchern",
+   "legende": "Legende!",
+   "fun": "Übrigens",
+   "irr": "irrational",
+   "beispiele": "√2,  π,  e,  …",
+   "mehr": "mehr Irrationale als Brüche",
+   "quelle": "Quellen: Iamblichos · Pappos zu Euklid X · NRICH (Cambridge)",
+   "kw": {
+    "zahl": "Zahl",
+    "pyth": "Pythagoras",
+    "motto": "Alles ist Zahl",
+    "verh": "Verhältnis",
+    "drei": "Drei zu zwei",
+    "fuenf": "fünf zu vier",
+    "quadrat": "Quadrat",
+    "diag": "Diagonale",
+    "wurzel": "Wurzel",
+    "kein": "kein Bruch",
+    "suchst": "suchst",
+    "niemand": "niemand",
+    "name": "Hippasos",
+    "meer": "Meer",
+    "goetter": "Götter",
+    "geheimnis": "Geheimnis",
+    "bord": "über Bord",
+    "spaet": "späteren",
+    "irr": "irrational",
+    "mehr": "mehr"
+   }
+  },
+  "en": {
+   "hook": "Did a man die because of a single number?",
+   "ort": "Southern Italy, 5th century BC",
+   "schule": "the Pythagoreans",
+   "motto": "“Everything is number”",
+   "glaube": "Everything is a ratio",
+   "ganz": "whole numbers",
+   "quadrat": "The square",
+   "diag": "diagonal",
+   "pyth": "1² + 1² = 2",
+   "bruch": "√2 = a/b ?",
+   "v1": "7/5 = 1.4",
+   "v2": "17/12 = 1.41666…",
+   "v3": "99/70 = 1.414285…",
+   "ziel": "√2 = 1.414213…",
+   "kein": "not a fraction!",
+   "wer": "Who was it?",
+   "name": "Hippasus of Metapontum",
+   "unsicher": "(attribution uncertain)",
+   "sage": "Legend says …",
+   "strafe": "punished by the gods?",
+   "geheimnis": "the secret: √2",
+   "bordT": "Thrown overboard?",
+   "spaet": "only in much later books",
+   "legende": "Legend!",
+   "fun": "Fun fact",
+   "irr": "irrational",
+   "beispiele": "√2,  π,  e,  …",
+   "mehr": "more irrationals than fractions",
+   "quelle": "Sources: Iamblichus · Pappus on Euclid X · NRICH (Cambridge)",
+   "kw": {
+    "zahl": "number",
+    "pyth": "Pythagoras",
+    "motto": "everything is number",
+    "verh": "ratio",
+    "drei": "Three to two",
+    "fuenf": "five to four",
+    "quadrat": "square",
+    "diag": "diagonal",
+    "wurzel": "root",
+    "kein": "not a fraction",
+    "suchst": "search",
+    "niemand": "Nobody",
+    "name": "Hippasus",
+    "meer": "sea",
+    "goetter": "gods",
+    "geheimnis": "secret",
+    "bord": "overboard",
+    "spaet": "later",
+    "irr": "irrational",
+    "mehr": "more"
+   }
+  }
+ },
+ "meta": {
+  "de": {
+   "title": "Ertrank Hippasos wegen der Wurzel aus 2?",
+   "description": "Die Pythagoreer glaubten: Alles ist Zahl – jede Länge ein Verhältnis ganzer Zahlen. Dann zeigte die Diagonale eines Quadrats das Gegenteil. Was wirklich über Hippasos von Metapont überliefert ist und was nur Legende ist.",
+   "tags": [
+    "Hippasos",
+    "Wurzel aus 2",
+    "irrationale Zahlen",
+    "Pythagoras",
+    "Pythagoreer",
+    "Antike",
+    "Geschichte der Mathematik",
+    "Mathe"
+   ]
+  },
+  "en": {
+   "title": "Did a man drown because of the square root of 2?",
+   "description": "The Pythagoreans believed everything is number – any two lengths form a ratio of whole numbers. Then the diagonal of a square proved them wrong. What the sources really say about Hippasus of Metapontum, and what is only legend.",
+   "tags": [
+    "Hippasus",
+    "square root of 2",
+    "irrational numbers",
+    "Pythagoras",
+    "Pythagoreans",
+    "ancient Greece",
+    "math history",
+    "history of math"
+   ]
+  }
+ },
+ "quellen": [
+  "Iamblichos, Über das pythagoreische Leben (De vita Pythagorica)",
+  "Pappos, Kommentar zum 10. Buch von Euklids Elementen",
+  "NRICH, Hippasus Overboard (University of Cambridge)",
+  "J. Ferreirós, What was poor Hippasus' sin? (Universidad de Sevilla, 2017)"
+ ]
+}
