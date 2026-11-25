@@ -1,0 +1,10 @@
+CLIENT_ID: gesetzt
+CLIENT_SECRET: gesetzt
+YOUTUBE_REFRESH_TOKEN: gesetzt
+job: videos/2026-11-25_hippasos-wurzel-zwei.json
+run: 20261125T005218
+Fertig: https://youtu.be/omJtVbbhQ-M
+Status: private
+VIDEO_ID=omJtVbbhQ-M
+Veröffentlichung geplant: 2026-11-25T21:00:00Z
+rc=0
