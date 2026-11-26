@@ -1,0 +1,200 @@
+{
+ "slug": "euler-koenigsberg",
+ "date": "2026-11-26",
+ "thema": "Euler und die sieben Brücken von Königsberg",
+ "beats": [
+  {
+   "id": "hook",
+   "de": "Kannst du über sieben Brücken gehen – jede genau einmal?",
+   "en": "Can you cross seven bridges – each one exactly once?"
+  },
+  {
+   "id": "ort",
+   "de": "Königsberg, achtzehntes Jahrhundert. Der Fluss Pregel teilt die Stadt in vier Teile, verbunden durch sieben Brücken.",
+   "en": "Königsberg, eighteenth century. The river Pregel splits the city into four parts, linked by seven bridges."
+  },
+  {
+   "id": "raetsel",
+   "de": "Der Überlieferung nach suchten die Leute sonntags so einen Weg. Keiner fand ihn.",
+   "en": "As the story goes, locals hunted for such a walk on Sundays. Nobody ever found one."
+  },
+  {
+   "id": "euler",
+   "de": "Leonhard Euler in Sankt Petersburg nennt das Rätsel banal: Mit Mathematik habe es wenig zu tun.",
+   "en": "Leonhard Euler, in Saint Petersburg, called the puzzle banal: it had little to do with mathematics."
+  },
+  {
+   "id": "trick",
+   "de": "Trotzdem löst er es. Sein Trick: Jeder Stadtteil wird ein Punkt, jede Brücke eine Linie.",
+   "en": "Still, he solved it. His trick: every district becomes a dot, every bridge a line."
+  },
+  {
+   "id": "regel",
+   "de": "Wer einen Punkt betritt, muss ihn auch verlassen. Also braucht jeder Punkt eine gerade Zahl Linien – ausser Start und Ziel.",
+   "en": "Whenever you enter a dot, you must leave it again. So every dot needs an even number of lines – except start and finish."
+  },
+  {
+   "id": "zaehlen",
+   "de": "Königsberg hat fünf, drei, drei und drei. Viermal ungerade – unmöglich!",
+   "en": "Königsberg has five, three, three and three. Four odd ones – impossible!"
+  },
+  {
+   "id": "funfact",
+   "de": "Übrigens: Dieser Beweis gilt als Geburtsstunde der Graphentheorie. Die steckt heute in jedem Navi.",
+   "en": "Fun fact: this proof is seen as the birth of graph theory. Today it runs inside every navigation app."
+  }
+ ],
+ "say": {
+  "de": {
+   "ausser": "außer"
+  },
+  "en": {
+   "Königsberg": "Kernigsberg"
+  }
+ },
+ "text": {
+  "de": {
+   "hook": "Kannst du über sieben Brücken gehen – jede genau einmal?",
+   "ort": "Königsberg, 18. Jh.",
+   "pregel": "Pregel",
+   "sonntag": "Sonntagsspaziergang",
+   "ueber": "(so die Überlieferung)",
+   "keiner": "Keiner fand ihn!",
+   "stadt": "St. Petersburg",
+   "name": "Leonhard Euler",
+   "banal": "„banal!“",
+   "mathe": "„wenig Mathematik“",
+   "brief": "Brief nach Danzig, 1736",
+   "trick": "Eulers Trick (1735)",
+   "teil": "Stadtteil = Punkt",
+   "bruecke": "Brücke = Linie",
+   "regel": "Die Regel",
+   "rein": "rein",
+   "raus": "raus",
+   "gerade": "gerade Zahl Linien",
+   "ausser": "ausser Start und Ziel",
+   "zaehlen": "Königsberg",
+   "ungerade": "4 × ungerade",
+   "unm": "unmöglich!",
+   "fun": "Übrigens",
+   "graph": "Graphentheorie",
+   "navi": "steckt in jedem Navi",
+   "quelle": "Quellen: Euler, Solutio … (1741) · MAA Convergence · Science News",
+   "kw": {
+    "bruecken": "Brücken",
+    "einmal": "einmal",
+    "pregel": "Pregel",
+    "vier": "vier Teile",
+    "sieben": "sieben Brücken",
+    "sonntags": "sonntags",
+    "keiner": "Keiner",
+    "euler": "Euler",
+    "banal": "banal",
+    "mathe": "Mathematik",
+    "trick": "Trick",
+    "punkt": "Punkt",
+    "linie": "Linie",
+    "betritt": "betritt",
+    "verlassen": "verlassen",
+    "gerade": "gerade",
+    "start": "Start",
+    "fuenf": "fünf",
+    "drei": "drei",
+    "ungerade": "ungerade",
+    "unm": "unmöglich",
+    "graph": "Graphentheorie",
+    "navi": "steckt",
+    "bruecke": "Brücke"
+   }
+  },
+  "en": {
+   "hook": "Can you cross seven bridges – each one exactly once?",
+   "ort": "Königsberg, 18th century",
+   "pregel": "Pregel",
+   "sonntag": "A Sunday stroll",
+   "ueber": "(as the story goes)",
+   "keiner": "Nobody found one!",
+   "stadt": "St. Petersburg",
+   "name": "Leonhard Euler",
+   "banal": "“banal!”",
+   "mathe": "“little to do with math”",
+   "brief": "letter to Danzig, 1736",
+   "trick": "Euler’s trick (1735)",
+   "teil": "district = dot",
+   "bruecke": "bridge = line",
+   "regel": "The rule",
+   "rein": "in",
+   "raus": "out",
+   "gerade": "even number of lines",
+   "ausser": "except start and finish",
+   "zaehlen": "Königsberg",
+   "ungerade": "4 × odd",
+   "unm": "impossible!",
+   "fun": "Fun fact",
+   "graph": "graph theory",
+   "navi": "inside every navigation app",
+   "quelle": "Sources: Euler, Solutio … (1741) · MAA Convergence · Science News",
+   "kw": {
+    "bruecken": "bridges",
+    "einmal": "once",
+    "pregel": "Pregel",
+    "vier": "four parts",
+    "sieben": "seven bridges",
+    "sonntags": "Sundays",
+    "keiner": "Nobody",
+    "euler": "Euler",
+    "banal": "banal",
+    "mathe": "mathematics",
+    "trick": "trick",
+    "punkt": "dot",
+    "linie": "line",
+    "betritt": "enter",
+    "verlassen": "leave",
+    "gerade": "even",
+    "start": "start",
+    "fuenf": "five",
+    "drei": "three",
+    "ungerade": "odd",
+    "unm": "impossible",
+    "graph": "graph theory",
+    "navi": "Today",
+    "bruecke": "bridge"
+   }
+  }
+ },
+ "meta": {
+  "de": {
+   "title": "Sieben Brücken, jede nur einmal – geht das?",
+   "description": "In Königsberg teilte der Fluss Pregel die Stadt in vier Teile, verbunden durch sieben Brücken. Gibt es einen Spaziergang über jede Brücke genau einmal? Leonhard Euler fand das Rätsel banal – und bewies 1735 mit Punkten und Linien, dass es unmöglich ist. Der Beginn der Graphentheorie.",
+   "tags": [
+    "Euler",
+    "Königsberger Brückenproblem",
+    "Graphentheorie",
+    "Königsberg",
+    "Leonhard Euler",
+    "Rätsel",
+    "Geschichte der Mathematik",
+    "Mathe"
+   ]
+  },
+  "en": {
+   "title": "Seven bridges, each crossed once – is it possible?",
+   "description": "The river Pregel split Königsberg into four parts, linked by seven bridges. Is there a walk that crosses every bridge exactly once? Leonhard Euler called the puzzle banal – then proved in 1735, with dots and lines, that it can't be done. The birth of graph theory.",
+   "tags": [
+    "Euler",
+    "Seven Bridges of Königsberg",
+    "graph theory",
+    "Königsberg",
+    "Leonhard Euler",
+    "puzzle",
+    "math history",
+    "history of math"
+   ]
+  }
+ },
+ "quellen": [
+  "L. Euler, Solutio problematis ad geometriam situs pertinentis (vorgelegt 1735, gedruckt 1741)",
+  "T. Paoletti, Leonard Euler's Solution to the Königsberg Bridge Problem (MAA Convergence)",
+  "I. Peterson, Euler's Bridges (Science News, 2006)"
+ ]
+}
