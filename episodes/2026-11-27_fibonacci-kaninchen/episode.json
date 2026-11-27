@@ -1,0 +1,221 @@
+{
+ "slug": "fibonacci-kaninchen",
+ "date": "2026-11-27",
+ "thema": "Fibonacci und die Kaninchen-Aufgabe (Liber Abaci, 1202)",
+ "beats": [
+  {
+   "id": "hook",
+   "de": "Wie viele Kaninchen macht ein einziges Paar in einem Jahr?",
+   "en": "How many rabbits can one single pair make in a year?"
+  },
+  {
+   "id": "ort",
+   "de": "Pisa, um 1200. Leonardo, später Fibonacci genannt, lernt in Nordafrika die indisch-arabischen Ziffern kennen.",
+   "en": "Pisa, around 1200. Leonardo – later nicknamed Fibonacci – learns the Hindu-Arabic numerals in North Africa."
+  },
+  {
+   "id": "buch",
+   "de": "1202 schreibt er das Liber Abaci, das Buch des Rechnens. Es bringt die neuen Ziffern nach Europa.",
+   "en": "In 1202 he writes the Liber Abaci, the Book of Calculation. It brings the new numerals to Europe."
+  },
+  {
+   "id": "aufgabe",
+   "de": "Darin steht eine Aufgabe: Ein Mann setzt ein Kaninchenpaar in ein Gehege mit Mauern ringsum.",
+   "en": "Inside is a puzzle: a man puts a pair of rabbits in a place with walls all around."
+  },
+  {
+   "id": "regel",
+   "de": "Jedes Paar bekommt jeden Monat ein neues Paar. Die Jungen bekommen ab dem zweiten Monat selbst Junge.",
+   "en": "Every month, each pair has a new pair. And from their second month on, the babies have babies too."
+  },
+  {
+   "id": "zaehlen",
+   "de": "Fibonacci zählt Monat für Monat: eins, zwei, drei, fünf, acht, dreizehn …",
+   "en": "Fibonacci counts month by month: one, two, three, five, eight, thirteen …"
+  },
+  {
+   "id": "summe",
+   "de": "Jede Zahl ist die Summe der beiden davor. Nach einem Jahr: 377 Paare!",
+   "en": "Each number is the sum of the two before it. After one year: 377 pairs!"
+  },
+  {
+   "id": "funfact",
+   "de": "Übrigens: Indische Gelehrte kannten diese Zahlen schon Jahrhunderte früher – beim Zählen von Versmassen.",
+   "en": "Fun fact: scholars in India knew these numbers centuries earlier – from counting rhythms in poetry."
+  }
+ ],
+ "say": {
+  "de": {
+   "1202": "Zwölfhundertzwei",
+   "1200": "zwölfhundert",
+   "377": "dreihundertsiebenundsiebzig",
+   "Fibonacci": "Fibonatschi",
+   "Abaci": "Abatschi",
+   "Versmassen": "Versmaßen"
+  },
+  "en": {
+   "1202": "twelve oh two",
+   "1200": "twelve hundred",
+   "377": "three hundred and seventy-seven",
+   "Abaci": "Abbachee"
+  }
+ },
+ "text": {
+  "de": {
+   "hook": "Wie viele Kaninchen macht ein einziges Paar in einem Jahr?",
+   "ort": "Pisa, um 1200",
+   "name": "Leonardo „Fibonacci“",
+   "pisa": "Pisa",
+   "bugia": "Bugia",
+   "afrika": "Nordafrika",
+   "ziffern": "indisch-arabische Ziffern",
+   "buch": "Liber Abaci, 1202",
+   "untertitel": "„Buch des Rechnens“",
+   "europa": "nach Europa",
+   "aufgabe": "Die Aufgabe",
+   "mauer": "Mauern ringsum",
+   "regel": "Die Regel",
+   "r1": "jeden Monat: + 1 Paar",
+   "r2": "Junge: ab dem 2. Monat",
+   "monat": "Monat",
+   "zaehlen": "Monat für Monat",
+   "summe": "Summe der beiden davor",
+   "paare": "Paare!",
+   "jahr": "nach 1 Jahr",
+   "fun": "Übrigens",
+   "indien": "Indien: Pingala, Virahanka …",
+   "silben": "kurz · lang",
+   "verse": "Versmasse mit 4 Schlägen",
+   "quelle": "Quellen: Fibonacci, Liber abaci (1202) · MacTutor · Britannica",
+   "kw": {
+    "kaninchen": "Kaninchen",
+    "paar": "Paar",
+    "jahr": "Jahr",
+    "leonardo": "Leonardo",
+    "fibonacci": "Fibonacci",
+    "afrika": "Nordafrika",
+    "ziffern": "Ziffern",
+    "liber": "Liber",
+    "buch": "Buch",
+    "europa": "Europa",
+    "aufgabe": "Aufgabe",
+    "kpaar": "Kaninchenpaar",
+    "mauern": "Mauern",
+    "monat": "jeden Monat",
+    "neues": "neues Paar",
+    "jungen": "Jungen",
+    "zweiten": "zweiten",
+    "selbst": "selbst",
+    "n1": "eins",
+    "n2": "zwei",
+    "n3": "drei",
+    "n5": "fünf",
+    "n8": "acht",
+    "n13": "dreizehn",
+    "summe": "Summe",
+    "davor": "davor",
+    "einjahr": "Jahr",
+    "zahl": "377",
+    "indisch": "Indische",
+    "frueher": "Jahrhunderte",
+    "vers": "Versmassen"
+   }
+  },
+  "en": {
+   "hook": "How many rabbits can one single pair make in a year?",
+   "ort": "Pisa, c. 1200",
+   "name": "Leonardo “Fibonacci”",
+   "pisa": "Pisa",
+   "bugia": "Bugia",
+   "afrika": "North Africa",
+   "ziffern": "Hindu-Arabic numerals",
+   "buch": "Liber Abaci, 1202",
+   "untertitel": "“Book of Calculation”",
+   "europa": "to Europe",
+   "aufgabe": "The puzzle",
+   "mauer": "walls all around",
+   "regel": "The rule",
+   "r1": "every month: + 1 pair",
+   "r2": "babies: from month 2",
+   "monat": "month",
+   "zaehlen": "Month by month",
+   "summe": "Sum of the two before",
+   "paare": "pairs!",
+   "jahr": "after 1 year",
+   "fun": "Fun fact",
+   "indien": "India: Pingala, Virahanka …",
+   "silben": "short · long",
+   "verse": "rhythms with 4 beats",
+   "quelle": "Sources: Fibonacci, Liber abaci (1202) · MacTutor · Britannica",
+   "kw": {
+    "kaninchen": "rabbits",
+    "paar": "pair",
+    "jahr": "year",
+    "leonardo": "Leonardo",
+    "fibonacci": "Fibonacci",
+    "afrika": "North Africa",
+    "ziffern": "numerals",
+    "liber": "Liber",
+    "buch": "Book",
+    "europa": "Europe",
+    "aufgabe": "puzzle",
+    "kpaar": "pair of rabbits",
+    "mauern": "walls",
+    "monat": "Every month",
+    "neues": "new pair",
+    "jungen": "babies",
+    "zweiten": "second",
+    "selbst": "babies too",
+    "n1": "one",
+    "n2": "two",
+    "n3": "three",
+    "n5": "five",
+    "n8": "eight",
+    "n13": "thirteen",
+    "summe": "sum",
+    "davor": "before",
+    "einjahr": "year",
+    "zahl": "377",
+    "indisch": "India",
+    "frueher": "centuries",
+    "vers": "rhythms"
+   }
+  }
+ },
+ "meta": {
+  "de": {
+   "title": "Ein Kaninchenpaar, ein Jahr – wie viele Paare?",
+   "description": "Im Liber Abaci von 1202 stellt Leonardo von Pisa, genannt Fibonacci, eine berühmte Aufgabe: Ein Kaninchenpaar in einem ummauerten Gehege – wie viele Paare sind es nach einem Jahr? Die Antwort führt zur Fibonacci-Folge: 1, 2, 3, 5, 8, 13 … bis 377. Indische Gelehrte kannten diese Zahlen schon Jahrhunderte früher.",
+   "tags": [
+    "Fibonacci",
+    "Fibonacci-Folge",
+    "Liber Abaci",
+    "Kaninchen",
+    "Leonardo von Pisa",
+    "Zahlenfolge",
+    "Geschichte der Mathematik",
+    "Mathe"
+   ]
+  },
+  "en": {
+   "title": "One pair of rabbits, one year – how many pairs?",
+   "description": "In his Liber Abaci of 1202, Leonardo of Pisa – better known as Fibonacci – posed a famous puzzle: one pair of rabbits in a walled place. How many pairs after a year? The answer gives the Fibonacci sequence: 1, 2, 3, 5, 8, 13 … all the way to 377. Scholars in India knew these numbers centuries earlier.",
+   "tags": [
+    "Fibonacci",
+    "Fibonacci sequence",
+    "Liber Abaci",
+    "rabbits",
+    "Leonardo of Pisa",
+    "number sequence",
+    "math history",
+    "history of math"
+   ]
+  }
+ },
+ "quellen": [
+  "Leonardo Pisano (Fibonacci), Liber abaci (1202, 2. Fassung 1228); engl. L. E. Sigler, Fibonacci's Liber Abaci (2002)",
+  "J. J. O'Connor, E. F. Robertson, Leonardo Pisano Fibonacci (MacTutor History of Mathematics, St Andrews)",
+  "Encyclopaedia Britannica, Fibonacci",
+  "P. Singh, The so-called Fibonacci numbers in ancient and medieval India (Historia Mathematica 12, 1985)"
+ ]
+}
