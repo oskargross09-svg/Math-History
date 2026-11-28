@@ -1,0 +1,10 @@
+CLIENT_ID: gesetzt
+CLIENT_SECRET: gesetzt
+YOUTUBE_REFRESH_TOKEN: gesetzt
+job: videos/2026-11-28_ramanujan-taxi.json
+run: 20261128T005413
+Fertig: https://youtu.be/prFMkgUy-Cw
+Status: private
+VIDEO_ID=prFMkgUy-Cw
+Veröffentlichung geplant: 2026-11-28T21:00:00Z
+rc=0
