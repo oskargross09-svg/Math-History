@@ -1,0 +1,242 @@
+{
+ "slug": "ramanujan-taxi",
+ "date": "2026-11-28",
+ "thema": "Ramanujans Brief an Hardy und die Taxi-Zahl 1729",
+ "beats": [
+  {
+   "id": "hook",
+   "de": "Was ist so besonders an der Taxinummer 1729?",
+   "en": "What's so special about taxi number 1729?"
+  },
+  {
+   "id": "ort",
+   "de": "Madras, Indien, 1913. Srinivasa Ramanujan arbeitet im Hafenamt. Mathe hat er sich selbst beigebracht.",
+   "en": "Madras, India, 1913. Srinivasa Ramanujan is a clerk at the port. He taught himself math."
+  },
+  {
+   "id": "brief",
+   "de": "Er schreibt dem Mathematiker Hardy in Cambridge einen Brief – voller Formeln, ohne Beweise.",
+   "en": "He writes to the mathematician Hardy in Cambridge – a letter full of formulas, with no proofs."
+  },
+  {
+   "id": "pruefen",
+   "de": "Hardy prüft sie mit Littlewood. Manche können die beiden weder beweisen noch widerlegen.",
+   "en": "Hardy checks them with Littlewood. There are formulas they can neither prove nor disprove."
+  },
+  {
+   "id": "reise",
+   "de": "1914 holt Hardy ihn nach Cambridge.",
+   "en": "In 1914, Hardy brings him to Cambridge."
+  },
+  {
+   "id": "krank",
+   "de": "Später wird Ramanujan krank. Hardy besucht ihn in Putney.",
+   "en": "Later, Ramanujan falls seriously ill. Hardy visits him in Putney."
+  },
+  {
+   "id": "taxi",
+   "de": "Er erzählt: Mein Taxi hatte die Nummer 1729. Eine ziemlich langweilige Zahl.",
+   "en": "Hardy says: My taxi was number 1729. Rather a dull number."
+  },
+  {
+   "id": "antwort",
+   "de": "Ramanujan widerspricht: Nein, sehr interessant! Die kleinste Zahl, die man auf zwei Arten als Summe zweier Kubikzahlen schreiben kann.",
+   "en": "Ramanujan disagrees: No, it's very interesting! The smallest number that's a sum of two cubes in two different ways."
+  },
+  {
+   "id": "rechnung",
+   "de": "Eins hoch drei plus zwölf hoch drei. Und neun hoch drei plus zehn hoch drei.",
+   "en": "One cubed plus twelve cubed. And nine cubed plus ten cubed."
+  },
+  {
+   "id": "funfact",
+   "de": "Übrigens: Solche Zahlen heissen heute Taxi-Zahlen.",
+   "en": "Fun fact: numbers like this are now called taxicab numbers."
+  }
+ ],
+ "say": {
+  "de": {
+   "1913": "neunzehnhundertdreizehn",
+   "1914": "neunzehnhundertvierzehn",
+   "1729": "tausendsiebenhundertneunundzwanzig",
+   "Ramanujan": "Ramanudschan",
+   "Littlewood": "Littelwud",
+   "Hardy": "Hardi",
+   "Putney": "Patni",
+   "Cambridge": "Kehmbritsch",
+   "heissen": "heißen",
+   "Taxinummer": "Taxi-Nummer"
+  },
+  "en": {
+   "1913": "nineteen thirteen",
+   "1914": "nineteen fourteen",
+   "1729": "seventeen twenty-nine"
+  }
+ },
+ "text": {
+  "de": {
+   "hook": "Was ist so besonders an der Taxinummer 1729?",
+   "ort": "Madras, Indien, 1913",
+   "name": "Srinivasa Ramanujan",
+   "hafen": "Hafenamt",
+   "selbst": "Mathe: selbst beigebracht",
+   "brief": "Ein Brief nach Cambridge",
+   "madras": "Madras",
+   "cambridge": "Cambridge",
+   "an": "an G. H. Hardy",
+   "beweise": "Beweise?",
+   "pruefen": "Hardy & Littlewood",
+   "hardy": "Hardy",
+   "little": "Littlewood",
+   "unklar": "weder bewiesen noch widerlegt",
+   "reise": "1914: nach Cambridge",
+   "indien": "Indien",
+   "england": "England",
+   "krank": "Putney bei London",
+   "taxi": "Taxi Nr. 1729",
+   "dull": "„ziemlich langweilig …“",
+   "antwort": "Nein, sehr interessant!",
+   "a1": "die kleinste Zahl,",
+   "a2": "die Summe zweier Kubikzahlen ist –",
+   "a3": "auf zwei Arten!",
+   "rechnung": "Zwei Arten",
+   "fun": "Übrigens",
+   "taxizahlen": "„Taxi-Zahlen“",
+   "ta3": "kleinste mit 3 Arten: 87 539 319",
+   "quelle": "Quellen: G. H. Hardy, Ramanujan (1940) · MacTutor · Britannica",
+   "kw": {
+    "taxi": "Taxinummer",
+    "zahl": "1729",
+    "srini": "Srinivasa",
+    "hafen": "Hafenamt",
+    "allein": "selbst",
+    "brief": "Brief",
+    "cambridge": "Cambridge",
+    "hardy": "Hardy",
+    "formeln": "Formeln",
+    "beweise": "Beweise",
+    "pruef": "prüft",
+    "little": "Littlewood",
+    "weder": "weder",
+    "wider": "widerlegen",
+    "laedt": "holt",
+    "krank": "krank",
+    "besucht": "besucht",
+    "putney": "Putney",
+    "taxi2": "Taxi",
+    "nummer": "Nummer",
+    "dull": "langweilige",
+    "nein": "Nein",
+    "interessant": "interessant",
+    "kleinste": "kleinste",
+    "zwei": "zwei Arten",
+    "kubik": "Kubikzahlen",
+    "c1": "Eins hoch drei",
+    "c12": "zwölf hoch drei",
+    "c9": "neun hoch drei",
+    "c10": "zehn hoch drei",
+    "taxizahl": "Taxi-Zahlen"
+   }
+  },
+  "en": {
+   "hook": "What's so special about taxi number 1729?",
+   "ort": "Madras, India, 1913",
+   "name": "Srinivasa Ramanujan",
+   "hafen": "Port Trust",
+   "selbst": "math: self-taught",
+   "brief": "A letter to Cambridge",
+   "madras": "Madras",
+   "cambridge": "Cambridge",
+   "an": "to G. H. Hardy",
+   "beweise": "Proofs?",
+   "pruefen": "Hardy & Littlewood",
+   "hardy": "Hardy",
+   "little": "Littlewood",
+   "unklar": "neither proved nor disproved",
+   "reise": "1914: to Cambridge",
+   "indien": "India",
+   "england": "England",
+   "krank": "Putney, near London",
+   "taxi": "Taxi No. 1729",
+   "dull": "“rather a dull one …”",
+   "antwort": "No – very interesting!",
+   "a1": "the smallest number",
+   "a2": "that is a sum of two cubes –",
+   "a3": "in two different ways!",
+   "rechnung": "Two ways",
+   "fun": "Fun fact",
+   "taxizahlen": "“Taxicab numbers”",
+   "ta3": "smallest with 3 ways: 87,539,319",
+   "quelle": "Sources: G. H. Hardy, Ramanujan (1940) · MacTutor · Britannica",
+   "kw": {
+    "taxi": "taxi",
+    "zahl": "1729",
+    "srini": "Srinivasa",
+    "hafen": "port",
+    "allein": "himself",
+    "brief": "letter",
+    "cambridge": "Cambridge",
+    "hardy": "Hardy",
+    "formeln": "formulas",
+    "beweise": "proofs",
+    "pruef": "checks",
+    "little": "Littlewood",
+    "weder": "neither",
+    "wider": "disprove",
+    "laedt": "brings",
+    "krank": "ill",
+    "besucht": "visits",
+    "putney": "Putney",
+    "taxi2": "taxi",
+    "nummer": "number",
+    "dull": "dull",
+    "nein": "No",
+    "interessant": "interesting",
+    "kleinste": "smallest",
+    "zwei": "two different",
+    "kubik": "cubes",
+    "c1": "One cubed",
+    "c12": "twelve cubed",
+    "c9": "nine cubed",
+    "c10": "ten cubed",
+    "taxizahl": "taxicab numbers"
+   }
+  }
+ },
+ "meta": {
+  "de": {
+   "title": "Warum ist die Taxinummer 1729 so besonders?",
+   "description": "1913 schreibt Srinivasa Ramanujan, ein Angestellter im Hafenamt von Madras, einen Brief voller Formeln an G. H. Hardy in Cambridge. Jahre später besucht Hardy den kranken Ramanujan und nennt seine Taxinummer 1729 langweilig – doch Ramanujan sieht sofort: Es ist die kleinste Zahl, die auf zwei Arten eine Summe zweier Kubikzahlen ist.",
+   "tags": [
+    "Ramanujan",
+    "1729",
+    "Taxi-Zahl",
+    "Hardy",
+    "Kubikzahlen",
+    "Zahlentheorie",
+    "Geschichte der Mathematik",
+    "Mathe"
+   ]
+  },
+  "en": {
+   "title": "Why is taxi number 1729 so special?",
+   "description": "In 1913, Srinivasa Ramanujan, a clerk at the Madras Port Trust, sent a letter full of formulas to G. H. Hardy in Cambridge. Years later, Hardy visited the ill Ramanujan and called his taxi number, 1729, rather dull – but Ramanujan instantly saw that it is the smallest number that is a sum of two cubes in two different ways.",
+   "tags": [
+    "Ramanujan",
+    "1729",
+    "taxicab number",
+    "Hardy",
+    "cubes",
+    "number theory",
+    "math history",
+    "history of math"
+   ]
+  }
+ },
+ "quellen": [
+  "G. H. Hardy, Ramanujan: Twelve Lectures on Subjects Suggested by His Life and Work (Cambridge 1940)",
+  "J. J. O'Connor, E. F. Robertson, Srinivasa Aiyangar Ramanujan (MacTutor History of Mathematics, St Andrews)",
+  "Encyclopaedia Britannica, Srinivasa Ramanujan",
+  "B. Bollobás, The man who taught infinity: how G. H. Hardy tamed Srinivasa Ramanujan's genius (University of Cambridge, 2016)"
+ ]
+}
